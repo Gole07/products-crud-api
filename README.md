@@ -1,2 +1,2 @@
 # products-crud-api
-Create CRUD API products
+Example CRUD API for products
