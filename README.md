@@ -1,7 +1,9 @@
 # products-crud-api
 Example CRUD API for products
 
+Preduslov za aplikaciju je da Postgre server bude dostupan na difoltnom portu 5432.
+
 Za kreiranje products_db baze, izvrsiti sledecu komandu:
 ```
-psql -h localhost -a -f create_products_db.sql
+psql -f sql/create_products_db.sql
 ```
